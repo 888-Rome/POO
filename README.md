@@ -3,7 +3,7 @@
 
 ## ☠️ Contenido
 - `modelos/` → Ejercicios de práctica y modelos de examen.  
-- `tp_final/` → Trabajo práctico final de la materia.  
+- `ruleta/` → Trabajo práctico final de la materia.  
 - `src/` → Código base / ejemplos.  
 
 ## 🧷 Sobre este proyecto
@@ -15,3 +15,4 @@
 - Practicar para exámenes de POO.  
 - Entender bien cómo aplicar la teoría en ejercicios.  
 - Dejar registro de mi avance como estudiante.  
+
